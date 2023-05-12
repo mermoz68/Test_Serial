@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="O%K,)?-vf}.$D%by3BE," x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="%1Kz-F,)n*EAC=|nE?T3"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # # # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="CBnfbLl;CG[2r:2p|@yy"><value name="pause"><shadow type="timePicker" id="McJGrYo0k.aQcMN%d)0`"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="5M=cc8sgjyUp2)aeZz2{"><field name="LEDS">`
+        # # # # # 
+        # # . # # 
+        # . . . # 
+        # # . # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="LDo/f++wl82Ph0,.RXP9"><value name="pause"><shadow type="timePicker" id=".*GE{D5i+qhe~mAw{L?M"><field name="ms">500</field></shadow></value><next><block type="device_print_message" id="8!V,?QnDML3mh^dej/bg"><value name="text"><shadow type="text" id="#nf$p}vo[%R*J](rRGm/"><field name="TEXT">!</field></shadow></value><next><block type="serial_writeline" id="UdF$Jl[mZA1MekyMwrrj"><value name="text"><shadow type="text" id="-@z?4CnNs@rR^GVEs$Nq"><field name="TEXT">Hello!</field></shadow></value><next><block type="serial_writeline" id=",?DKeis^Dyh_Wa82^1{S"><value name="text"><shadow type="text" id="EfLwO|{X/p^GPKO=NB;X"><field name="TEXT">STI2D</field></shadow></value><next><block type="device_pause" id="CrgpfcG1ZeJc.r2qO1NT"><value name="pause"><shadow type="timePicker" id="?Uu?r-HEf%kI~D71V%B("><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_forever" id="2]@sg:ZK`p_}D~/B(}8P" x="317" y="237"></block></xml>
